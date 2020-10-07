@@ -1,5 +1,6 @@
 # filmoteka
 Java Script team project
+
 Contributors 9:
 
 @Kateryna-Vyshnevetska - тимлид
