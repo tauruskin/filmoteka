@@ -1,5 +1,4 @@
-# filmoteka
-Java Script team project
+# filmoteka - Java Script Team Project
 
 
 Team members:
