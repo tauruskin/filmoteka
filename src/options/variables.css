@@ -1,0 +1,20 @@
+:root {
+    /* COLORS FOR CSS */
+    --background-main-color: #e5e5e5;
+    --black-text-color: #000000;
+    --grey-text-color: #545454;
+    --accent-color: #ff6b08;
+    --background-footer-color: #f7f7f7;
+    --red-text-color: #ff001b;
+    --white-text-color: #ffffff;
+    --color-text-modal-window: #8c8c8c;
+    /* SIZES FOR FONTS */
+    --main-font-weight: 12px;
+    /* SIZES FOR SECTIONS AND CONTAINER */
+    --section-mobile-width-size: 320px;
+    --section-tablet-width-size: 768px;
+    --section-desctop-width-size: 1024px;
+    --container-mobile-width-size: 320px;
+    --container-tablet-width-size: 768px;
+    --container-desctop-width-size: 1024px;
+}

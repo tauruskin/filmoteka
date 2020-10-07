@@ -1,0 +1,16 @@
+<ul class="actors-wraper">
+  {{#each this}}
+
+  <li class="cast-wraper">
+    <p class="hero-name">{{character}}</p>
+    {{#if profile_path}}
+    <img src="https://image.tmdb.org/t/p/w200{{profile_path}}" alt="{{title}}" class="cast-image">
+    {{else}}
+    <img
+      src="https://us.123rf.com/450wm/pavelstasevich/pavelstasevich1811/pavelstasevich181101028/112815904-stock-vector-no-image-available-icon-flat-vector-illustration.jpg?ver=6"
+      alt="{{title}}" class="cast-image">
+    {{/if}}
+    <p class="actor-name">Actor: {{name}}</p>
+  </li>
+  {{/each}}
+</ul>
