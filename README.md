@@ -2,7 +2,7 @@
 Java Script team project
 
 
-Team members:
+##Team members:
 
 @Kateryna-Vyshnevetska - тимлид
 
