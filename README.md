@@ -4,7 +4,9 @@ Java Script team project
 Contributors 9:
 
 @Kateryna-Vyshnevetska - тимлид
+
 @Andrew Zabolotnyi 
+
 @Sergey Grebenuk
 @Tofik 
 @Roman Demikhov
